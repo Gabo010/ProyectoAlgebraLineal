@@ -2,6 +2,10 @@ package org.example;
 
 import java.util.Scanner;
 
+/*Realizado por:
+1.- Carmona Gonzalez Cristhian Gabriel
+2.- Cedillo Flores Gabriela
+ */
 public class GaussJordan {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
